@@ -44,6 +44,16 @@ Mechta:
         age:30+; 50-
         working: jurist
   dept4:dept5:
-
-
+    salary: 2
+      colleagues:
+          - julia:
+            count: 5
+            age: 30+; 40-
+            working: documents
+            gender: female
+          - Nechto:
+            count: unknown
+            age: 65+
+            working: documents
+            gender: male
   dept6:
