@@ -8,6 +8,16 @@ Mechta:
             age: 30+; 50-
             working: accountant
             gender: female
+          - dmitry:
+            count: 3
+            age: 30+; 50-
+            working:
+            gender: male
+          - ivan:
+            count: 2
+            working:
+            age: 30+; 50-
+            gender: male
   dept2:
   dept3:
   dept4:dept5:
