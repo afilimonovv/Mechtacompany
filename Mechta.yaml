@@ -30,30 +30,40 @@ Mechta:
             age: -30
             working: driver
   dept3:
-    colleagues:
-      - ivan:
-        count: 1
-        age: 30+; 50-
-        working: builder
-      - nikolay:
-        count: 1
-        age: 30+; 50-
-         working: builder
-      - olga:
-        count: 1
-        age:30+; 50-
-        working: jurist
+    salary:
+      colleagues:
+        - ivan:
+          count: 1
+          age: 30+; 50-
+          working: builder
+          gender: male
+        - nikolay:
+          count: 1
+          age: 30+; 50-
+          working: builder
+          gender: male
+       - olga:
+          count: 1
+          age: 30+; 50-
+          working: jurist
+          gender: female
   dept4:dept5:
     salary: 2
       colleagues:
-          - julia:
-            count: 5
-            age: 30+; 40-
-            working: documents
-            gender: female
-          - Nechto:
-            count: unknown
-            age: 65+
-            working: documents
-            gender: male
+        - julia:
+          count: 5
+          age: 30+; 40-
+          working: documents
+          gender: female
+        - Nechto:
+          count: unknown
+          age: 65+
+          working: documents
+          gender: male
   dept6:
+    colleagues:
+      - igor:
+        count: 1
+        working: Director of Security
+        age: 50+
+        gender: male
