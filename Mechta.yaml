@@ -19,7 +19,30 @@ Mechta:
             age: 30+; 50-
             gender: male
   dept2:
+    salary: 3
+      colleagues:
+          - roman:
+            count: 4
+            age: -30
+            working: jurist
+          - maxim:
+            count: 2
+            age: -30
+            working: driver
   dept3:
+    colleagues:
+      - ivan:
+        count: 1
+        age: 30+; 50-
+        working: builder
+      - nikolay:
+        count: 1
+        age: 30+; 50-
+         working: builder
+      - olga:
+        count: 1
+        age:30+; 50-
+        working: jurist
   dept4:dept5:
 
 
