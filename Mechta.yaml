@@ -1,6 +1,13 @@
 ---
 Mechta:
   dept1:
+    salary: 1
+      colleagues:
+          - olga:
+            count: 4
+            age: 30+; 50-
+            working: accountant
+            gender: female
   dept2:
   dept3:
   dept4:dept5:
